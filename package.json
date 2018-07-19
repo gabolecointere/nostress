@@ -1,0 +1,39 @@
+{
+  "name": "no-stress",
+  "version": "1.0.0",
+  "description": "Express API starter kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js",
+    "dev": "nodemon yarn start"
+  },
+  "keywords": [
+    "api",
+    "express",
+    "node",
+    "mongo"
+  ],
+  "author": "Gabriel Lecointere <gabolecointere21@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "await-to-js": "^2.0.1",
+    "bcrypt": "^3.0.0",
+    "bcrypt-promise": "^2.0.0",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.2",
+    "mongoose-validator": "^2.0.2",
+    "morgan": "^1.9.0",
+    "parse-error": "^0.2.0",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0"
+  },
+  "devDependencies": {
+    "jest": "^23.4.0",
+    "nodemon": "^1.18.0",
+    "standard": "^11.0.1"
+  }
+}
