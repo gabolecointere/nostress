@@ -6,15 +6,15 @@ Getting started with Node and Express could be an stressful process. If you have
 
 ## Includes
 
-### Basic Express set up 
+- Basic Express set up 
 
-### Mongoose set up for working with MongoDB 
+- Mongoose set up for working with MongoDB 
 
-### Basic JWT authentication workflow with Passport
+- Basic JWT authentication workflow with Passport
 
-### "Has many" relationship example: User has Items
+- "Has many" relationship example: User has Items
 
-### Utility methods to ensure consistency through error and success responses (see services/utilService)
+- Utility methods to ensure consistency through error and success responses (see services/utilService)
 
 ## Instalation
 
