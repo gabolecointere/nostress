@@ -20,3 +20,6 @@ Getting started with Node and Express could be an stressful process. If you have
 
 Just clone this repo and run npm install or yarn install, and make sure to create a .env file with the variables which fit your environment. There's an example.env file you can use as guide. 
 
+## EXTRA
+
+Take a look at this CLI tool to help you create Models and Controllers with the common boilerplate Quickly https://github.com/gabolecointere/gabocli
